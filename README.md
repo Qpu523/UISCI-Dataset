@@ -1,6 +1,6 @@
-# HiRISC Dataset: High-Risk Interactive Scenarios for Collision-avoidance
+# UISCI Dataset: Urban Intersection Safety-Critical Interaction Dataset
 
-This repository hosts the **HiRISC Dataset**, a large-scale, high-resolution dataset of **vehicle-pedestrian near-miss interactions at urban intersections**, generated using our proposed **Two-Stage Multi-Agent SST-DDPG framework** in CARLA.
+This repository hosts the **UISCI Dataset**, a large-scale, high-resolution dataset of **vehicle-pedestrian near-miss interactions at urban intersections**, generated using our proposed **Two-Stage Multi-Agent SST-DDPG framework** in CARLA.
 
 ---
 
@@ -70,7 +70,7 @@ Red = Pedestrian, Blue = Vehicle. Color gradient = time. The plots highlight dif
 
 ---
 
-## 📥 Download High-Risk Intersection Simulation for Collision Avoidance Dataset
+## 📥 Download  Urban Intersection Safety-Critical Interaction Dataset
 
 <table>
 <tr>
