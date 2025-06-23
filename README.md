@@ -159,7 +159,7 @@ For questions or extended data access:
 
 ## 📚 Citation
 
-If you use the HiRISC Dataset or associated model, please cite the following:
+If you use the UISCI Dataset or associated model, please cite the following:
 
 ```bibtex
 
