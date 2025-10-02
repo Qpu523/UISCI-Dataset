@@ -131,7 +131,7 @@ A **Turing Test-inspired study** was conducted to assess whether human participa
 
 A total of **51 participants** rated 12 randomized videos (4 per category), and their perception scores were statistically analyzed using **t-tests** and **Kolmogorov–Smirnov (KS) tests**.
 
-📺 **Watch the Demonstration Video**: [YouTube Link](https://youtu.be/boeocmhK8Y0)
+📺 **Watch the Demonstration Video**: [YouTube Link](https://www.youtube.com/watch?v=ul8AvVOk0SE)
 
 ---
 
