@@ -74,7 +74,7 @@ Red = Pedestrian, Blue = Vehicle. Color gradient = time. The plots highlight dif
 ---
 
 ## 📥 Download  Urban Intersection Safety-Critical Interaction Dataset
-
+- Data continues to update
 <table>
 <tr>
 <th><a href="https://1drv.ms/x/c/54547f6bb45158b3/EZLKA9aphE1MtSvYtt_X0BQBnmWgYIpkq2zkTFlhZeXAeQ?e=208yPU">Subset 1<br></a>(Pedestrian crossing from South to North)</th>
