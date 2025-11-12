@@ -1,6 +1,6 @@
-# UISCI Dataset: Urban Intersection Safety-Critical Interaction Dataset
+# VPSCI Dataset: Vehicle–Pedestrian Safety-Critical Interaction Dataset
 
-This repository hosts the **UISCI Dataset**, a large-scale, high-resolution dataset of **vehicle-pedestrian near-miss interactions at urban intersections**, generated using our proposed **Three-stage Multi-Agent SST-DDPG framework** in CARLA.
+This repository hosts the **VPSCI Dataset**, a large-scale, high-resolution dataset of **vehicle-pedestrian near-miss interactions at urban intersections**, generated using our proposed **Three-stage Multi-Agent SST-DDPG framework** in CARLA.
 
 ---
 
@@ -166,7 +166,7 @@ For questions or extended data access:
 
 ## 📚 Citation
 
-If you use the UISCI Dataset or associated model, please cite the following:
+If you use the VPSCI Dataset or associated model, please cite the following:
 
 ```bibtex
 
