@@ -175,5 +175,9 @@ If you use the VPSCI Dataset or associated model, please cite the following:
 ```
 
 ---
+```
+---
+## 📈 Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Qpu523/VPSCI-Dataset&type=Date)](https://star-history.com/#Qpu523/VPSCI-Dataset&Date)
 
