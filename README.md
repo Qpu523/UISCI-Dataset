@@ -172,9 +172,7 @@ If you use the VPSCI Dataset or associated model, please cite the following:
 
 
 }
-```
 
----
 ```
 ---
 ## 📈 Star History
