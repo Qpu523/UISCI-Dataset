@@ -18,7 +18,7 @@ The three-stage framework integrates real-world data with simulation to generate
 
 -   **Stage 3: CARLA-Based Large-Scale Data Generation**
     Using the refined and adapted model from Stage 2, we generate a large-scale dataset in CARLA across multiple intersection scenarios. This stage produces a diverse, high-resolution dataset of safety-critical interactions.
--   **Output:** A realistic and scalable dataset of over **163,000 high-resolution interaction episodes**, capturing authentic collision avoidance behaviors between vehicles and pedestrians in simulated urban intersections.
+-   **Output:** A realistic and scalable dataset of over **198,000 high-resolution interaction episodes**, capturing authentic collision avoidance behaviors between vehicles and pedestrians in simulated urban intersections.
 
 ---
 
