@@ -6,7 +6,7 @@ This repository hosts the **VPSCI Dataset**, a large-scale, high-resolution data
 
 ## 🧠 Framework Overview
 
-![Framework Overview](https://github.com/Qpu523/UISCI-Dataset/blob/e9974f2cec9b20d5c204afeada061f4466bd595b/Config/Framework.png)
+![Framework Overview](https://github.com/Qpu523/VPSCI-Dataset/blob/9d78ce9faa96040ea092077af1f0b9206540d21f/Config/111.png)
 
 The three-stage framework integrates real-world data with simulation to generate realistic and diverse safety-critical scenarios.
 
